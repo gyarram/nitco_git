@@ -3,7 +3,8 @@ public class Hello {
 
 	public static void main(String[] args) {
 		
-//No lines are added 
+//First line added
+		System.out.println("Hello Nitco");
 	}
 
 }
